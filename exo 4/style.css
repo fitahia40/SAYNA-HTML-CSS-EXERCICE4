@@ -1,0 +1,82 @@
+ 
+@font-face {
+    font-family:batman;
+    src: url(./Far-From\ Homecoming\ Updated.otf);
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: brown;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.head{
+    display: flex;
+}
+h1{
+    font-family: batman;
+}
+.o,.logo{
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.o{ 
+    margin-right: 40px;
+    padding-right: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+/* image*/
+
+.écrit{
+    padding-left: 500px;
+    float: inline-start;
+    color: #FFFFFF;
+    padding-top: 500px;
+    top: 400px;
+    
+
+}
+section{
+  background-image: url(./Illustration/img35.png);  
+  background-size: cover;
+  background-position: center;
+  position:relative ;
+  height: 600px;
+}
+
+footer{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: ;
+}
+.foot{
+    margin: left -50px;
+    float: inline-start;
+    color: #FFFFFF;
+     padding-right: 20px ;
+    text-decoration: none;
+    padding-left: 10px;
+}
+.logo{
+justify-content: center;
+padding-left: 100;
+}
+.ter{
+    margin-top:200px;
+    color: #FFFFFF;
+    padding-right: 60px;
+    text-decoration: none;
+    
+}
+.logo .foot{
+    background-color: darkred;
+    justify-content: left;
+    padding-left: 20px;
+}
+
